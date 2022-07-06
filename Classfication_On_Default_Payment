@@ -3,6 +3,16 @@
     {
       "cell_type": "markdown",
       "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/ernie2506/MMA/blob/main/Classfication_On_Default_Payment\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
         "id": "xvoJHY3fHW5z"
       },
       "source": [
@@ -355,8 +365,8 @@
       "cell_type": "code",
       "execution_count": null,
       "metadata": {
-        "id": "1iMVEHnEB0Au",
-        "outputId": "ed0d033a-e925-4a58-ce01-4a22739993f8"
+        "id": "cdmyd7qHC0ZG",
+        "outputId": "1018b292-2fd2-406a-c5d7-d41bfdfd0de3"
       },
       "outputs": [
         {
@@ -1543,7 +1553,7 @@
       "execution_count": null,
       "metadata": {
         "id": "wRjiwxnyr1mY",
-        "outputId": "52ec617e-3fc8-4d84-97ae-d3680ee1b874"
+        "outputId": "a86c478e-2fdd-45a7-b392-e3561b04c498"
       },
       "outputs": [
         {
@@ -1615,7 +1625,7 @@
       "execution_count": null,
       "metadata": {
         "id": "J3SC-5UfwKko",
-        "outputId": "8abb7f60-04d7-4661-a08f-0388e5ad5863"
+        "outputId": "ff0af34f-b1e6-4351-ecc5-8e9c10417df2"
       },
       "outputs": [
         {
@@ -1646,7 +1656,7 @@
       "execution_count": null,
       "metadata": {
         "id": "d5eOk5OgNBEF",
-        "outputId": "532698ea-440d-47d3-db0a-258182dd75cf"
+        "outputId": "404a5509-bd5b-4e95-b33e-14bccdb21f97"
       },
       "outputs": [
         {
@@ -2020,7 +2030,7 @@
       "execution_count": null,
       "metadata": {
         "id": "SV1XYYebNobL",
-        "outputId": "7a444a18-9cfe-47f0-c027-6e5c2b29fff3"
+        "outputId": "13cdc8e2-5877-4674-9877-cc9557730387"
       },
       "outputs": [
         {
@@ -2093,7 +2103,7 @@
       "execution_count": null,
       "metadata": {
         "id": "WdC0fbPYBP0d",
-        "outputId": "03b6239f-9558-49df-aaaf-dde33679e45a"
+        "outputId": "70ebd2ef-2408-436f-e2a7-0eadd585c895"
       },
       "outputs": [
         {
@@ -2485,7 +2495,7 @@
     {
       "cell_type": "markdown",
       "metadata": {
-        "id": "o-YQ41LHB0A3"
+        "id": "VhIhT-ZjC0ZR"
       },
       "source": [
         "Bining Balance Remaining"
@@ -2495,7 +2505,7 @@
       "cell_type": "code",
       "execution_count": null,
       "metadata": {
-        "id": "rhymwCL8B0A3"
+        "id": "maMXL41KC0ZS"
       },
       "outputs": [],
       "source": [
@@ -2558,7 +2568,7 @@
       "execution_count": null,
       "metadata": {
         "id": "HhQMUlXfzy2P",
-        "outputId": "3da35124-ea25-4c30-c9f1-809f57d4555a"
+        "outputId": "69f522bd-1c57-4a88-c30d-0f285937ccc1"
       },
       "outputs": [
         {
@@ -2943,7 +2953,7 @@
     {
       "cell_type": "markdown",
       "metadata": {
-        "id": "2cOjsZLtB0A4"
+        "id": "3Qvvt4PiC0ZT"
       },
       "source": [
         "Log Transform"
@@ -2953,7 +2963,7 @@
       "cell_type": "code",
       "execution_count": null,
       "metadata": {
-        "id": "1SWPm9qaB0A4"
+        "id": "S0W-nLElC0ZT"
       },
       "outputs": [],
       "source": [
@@ -2964,8 +2974,8 @@
       "cell_type": "code",
       "execution_count": null,
       "metadata": {
-        "id": "qoAap4T2B0A4",
-        "outputId": "60699cbf-1cbc-4dd5-c5b3-4fa9b317113a"
+        "id": "c2cEv11_C0ZT",
+        "outputId": "04e28bbd-2e26-4e3d-9689-8d17d3b82297"
       },
       "outputs": [
         {
@@ -2998,7 +3008,7 @@
       "cell_type": "code",
       "execution_count": null,
       "metadata": {
-        "id": "SuA6o5S2B0A4"
+        "id": "36plbf7dC0ZU"
       },
       "outputs": [],
       "source": [
@@ -3009,7 +3019,7 @@
       "cell_type": "code",
       "execution_count": null,
       "metadata": {
-        "id": "secQNiO3B0A4"
+        "id": "bD1QQXn0C0ZU"
       },
       "outputs": [],
       "source": [
@@ -3021,7 +3031,7 @@
       "execution_count": null,
       "metadata": {
         "id": "s15sBFWiymlY",
-        "outputId": "b1980f28-a147-4f39-bc2a-27b90c03eb27"
+        "outputId": "b7166b98-36ea-4b51-ad71-92d00aa53ed8"
       },
       "outputs": [
         {
@@ -3081,7 +3091,7 @@
       "execution_count": null,
       "metadata": {
         "id": "r5P83z0V7LBu",
-        "outputId": "d10d2995-1543-412d-b2a7-f52648f5b317"
+        "outputId": "60d8d239-9209-4454-c707-c176424ef031"
       },
       "outputs": [
         {
@@ -3106,7 +3116,7 @@
       "execution_count": null,
       "metadata": {
         "id": "q0uS2KZV78g9",
-        "outputId": "657bb715-2293-4b1f-ef17-9ebee60e4f36"
+        "outputId": "810ab885-ab43-492f-9e15-a07d83b7977e"
       },
       "outputs": [
         {
@@ -3152,7 +3162,7 @@
       "execution_count": null,
       "metadata": {
         "id": "C9SvGrdl8IiF",
-        "outputId": "f16c785b-5aeb-4fc6-dae3-d36246ec8f03"
+        "outputId": "1a8fed00-8baa-467a-a023-86bc44819c08"
       },
       "outputs": [
         {
@@ -3539,7 +3549,7 @@
       "execution_count": null,
       "metadata": {
         "id": "0VBxLFh58Kk1",
-        "outputId": "d7467b36-9b94-4bd8-83f8-0cd847809778"
+        "outputId": "9ca644c0-07d4-417f-ceb1-bc23d40930f7"
       },
       "outputs": [
         {
@@ -3599,7 +3609,7 @@
       "cell_type": "code",
       "execution_count": null,
       "metadata": {
-        "id": "LC40aAQtB0A5"
+        "id": "4QzJ6c9XC0ZV"
       },
       "outputs": [],
       "source": [
@@ -3803,7 +3813,8 @@
     "colab": {
       "collapsed_sections": [],
       "name": "MMA_823 Team Project.ipynb",
-      "provenance": []
+      "provenance": [],
+      "include_colab_link": true
     },
     "kernelspec": {
       "display_name": "MMA865",
